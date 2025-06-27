@@ -1,4 +1,4 @@
-
+<h1>cloning of istock web page</h1>
 
   <h1>📸 iStock Landing Page Clone</h1>
   <p>Hi wel come ...
