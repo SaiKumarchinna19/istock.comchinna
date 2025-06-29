@@ -1,7 +1,7 @@
 <h1>cloning of istock web page</h1>
 
   <h1>📸 iStock Landing Page Clone</h1>
-  <p>Hi wel come ...
+  <p>Hai hello! wel come ...
     This project is a <strong>responsive landing page clone</strong> of the official 
     <a href="https://www.istockphoto.com/" target="_blank">iStock</a> homepage, built with 
     <strong>HTML</strong> and <strong>CSS</strong>.
