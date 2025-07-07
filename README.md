@@ -66,7 +66,6 @@
       <li>SVG Icons and assets</li>
     </ul>
   </div>
-
   <div >
     <h2>👤 Author</h2>
     <p><strong>Saikumar Chinna</strong></p>
