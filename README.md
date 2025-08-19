@@ -44,7 +44,6 @@
       <li>Open <code>index.html</code> in your browser.</li>
     </ol>
   </div>
-
   <div >
     <h2>✨ Features</h2>
     <ul>
