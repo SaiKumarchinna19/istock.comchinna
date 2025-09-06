@@ -515,6 +515,7 @@ nav ol li:hover{
     justify-content: center;
     align-items: center;
 }
+
 .div4>main>aside>div{
   height: 564px;
   width:353px;
@@ -522,10 +523,12 @@ nav ol li:hover{
   overflow: hidden;
   position: relative;
 }
+
 .div4>main>aside>div>span{
     position: absolute;
     opacity: 0;
 }
+
 .div4>main>aside>div>img{
     height: inherit;
     width: 350px;
@@ -943,6 +946,7 @@ footer>main>h5{
     letter-spacing: 0.3px;
 }
 /*istock css ends here  */
+
 
 
 
