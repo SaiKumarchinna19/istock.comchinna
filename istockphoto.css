@@ -5,6 +5,7 @@
  box-sizing: border-box;
  font-family: iStock Maquette, Helvetica, Arial, sans-serif;
 }
+
 nav{
     height: 84px;
     /* border: 2px solid; */
@@ -15,6 +16,7 @@ nav{
     padding-left: 18px;
     gap: 8px;
 }
+
 nav>div{
     height: 51px;
     width: 640px;
@@ -939,6 +941,7 @@ footer>main>h5{
     letter-spacing: 0.3px;
 }
 /*istock css ends here  */
+
 
 
 
