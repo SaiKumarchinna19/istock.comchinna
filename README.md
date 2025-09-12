@@ -5,6 +5,7 @@
     <a href="https://www.istockphoto.com/" target="_blank">iStock</a> homepage, built with 
     <strong>HTML</strong> and <strong>CSS</strong>.  
   </p>
+   <br>
   <div>
     <h2>🔍 Preview(istock)</h2> 
     </div>
